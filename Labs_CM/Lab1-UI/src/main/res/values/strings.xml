@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LabsCM20181</string>
+    <string name="header_description">Chef Burger</string>
+    <string name="about">The 8th August of 2011 born CHEF BURGER COMPANY. Our goal is: ¡The Love for Burgers!</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+</resources>
