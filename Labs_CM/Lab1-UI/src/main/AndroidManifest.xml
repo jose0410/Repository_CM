@@ -16,13 +16,22 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".views.Menu"
+        <activity
+            android:name=".Dish"
+            android:parentActivityName=".views.MainActivity" >
+        <!-- The meta-data tag is required if you support API level 15 and lower -->
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value=".views.MainActivity" />
+        </activity>
+
+        <activity
+            android:name=".Drink"
             android:parentActivityName=".views.MainActivity" >
             <!-- The meta-data tag is required if you support API level 15 and lower -->
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".views.MainActivity" />
-        </activity>
+                android:value=".views.MainActivity" /></activity>
     </application>
 
 </manifest>
