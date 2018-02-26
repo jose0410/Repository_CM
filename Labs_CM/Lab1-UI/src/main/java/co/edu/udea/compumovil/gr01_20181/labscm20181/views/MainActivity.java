@@ -8,8 +8,6 @@ import android.view.View;
 import com.github.clans.fab.FloatingActionMenu;
 import com.github.clans.fab.FloatingActionButton;
 
-import co.edu.udea.compumovil.gr01_20181.labscm20181.Dish;
-import co.edu.udea.compumovil.gr01_20181.labscm20181.Drink;
 import co.edu.udea.compumovil.gr01_20181.labscm20181.R;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
