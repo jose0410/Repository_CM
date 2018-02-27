@@ -10,5 +10,8 @@
     <string name="addDrink">Add Drink</string>
     <string name="title_activity_dish">Dish</string>
     <string name="title_activity_drink">Drink</string>
+    <string name="evening">Night</string>
+    <string name="afternoon">Afternoon</string>
+    <string name="morning">Morning</string>
 
 </resources>
