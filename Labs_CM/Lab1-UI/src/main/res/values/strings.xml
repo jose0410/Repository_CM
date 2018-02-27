@@ -13,5 +13,8 @@
     <string name="evening">Night</string>
     <string name="afternoon">Afternoon</string>
     <string name="morning">Morning</string>
+    <string name="nameDrink">Name</string>
+    <string name="priceDrink">Price</string>
+    <string name="ingredientsDrink">Ingredients</string>
 
 </resources>
