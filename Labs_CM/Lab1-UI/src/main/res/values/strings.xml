@@ -1,15 +1,11 @@
 <resources>
-    <string name="app_name">CHEF BURGER</string>
+    <string name="app_name">LabsCM20181</string>
     <string name="header_description">Chef Burger</string>
     <string name="about">The 8th August of 2011 born CHEF BURGER COMPANY. Our goal is: ¡The Love for Burgers!</string>
     <string name="title_activity_menu">Menu</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
-    <string name="addDish">Add Dish</string>
-    <string name="addDrink">Add Drink</string>
-    <string name="title_activity_dish">Dish</string>
-    <string name="title_activity_drink">Drink</string>
 
     <string name="title_activity_splash">SplashActivity</string>
     <string name="dummy_button">Dummy Button</string>

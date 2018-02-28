@@ -29,9 +29,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
-
-
         materialDesignFAM = findViewById(R.id.request);
         fabDish = findViewById(R.id.addDish);
         fabDrink = findViewById(R.id.addDrink);
@@ -55,5 +52,14 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 break;
 
         }
+
+    }
+
+
+    public void deployActivity(View view){
+        Intent intent = new Intent(this, Menu.class);
+
+        startActivity(intent);
+
     }
 }
