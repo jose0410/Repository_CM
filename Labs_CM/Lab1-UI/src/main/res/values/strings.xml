@@ -11,4 +11,8 @@
     <string name="title_activity_dish">Dish</string>
     <string name="title_activity_drink">Drink</string>
 
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
 </resources>
